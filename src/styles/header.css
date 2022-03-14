@@ -1,0 +1,15 @@
+header#main-header{
+	width:  100%;
+	height: 80px;
+	background-color: red;
+	position:  relative;
+}
+
+header#main-header p{
+	position: absolute;
+	font-weight: bold;
+	color:  white;
+	top:  35%;
+	left:  40%;
+	text-align: center;
+}
